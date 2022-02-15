@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+English/
+stanford-corenlp-4.4.0/
+stf/

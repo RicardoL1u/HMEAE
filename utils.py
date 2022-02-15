@@ -387,8 +387,8 @@ class Extractor():
         print('--Entity Extraction Finish--')
         self.Event_Extract()
         print('--Event Mention Extraction Finish--')
-        self.None_event_Extract()
-        print('--Negetive Mention Extraction Finish--')
+        # self.None_event_Extract()
+        # print('--Negetive Mention Extraction Finish--')
         self.process()
         print('--Preprocess Data Finish--')
 
